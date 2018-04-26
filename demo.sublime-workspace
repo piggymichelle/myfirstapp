@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"Js",
+				"jsonp"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"bol",
+				"border-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"NEW",
+				"newObj"
+			],
+			[
+				"ge",
+				"getId"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"$('li').first()",
+			"function indexOf(arr, item) {",
+			"clear",
+			"var change = function(){",
+			"function wholename(first, last){",
+			"<button type=\"button\" onclick=\"alert('Hello world!')\">Click Me!</button>",
+			"clear",
+			"consloe.log(generalLastName)",
+			"logStuff",
+			"getInput",
+			"logStuff",
+			"function",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('[http://sublime.wbond.net/'+pf.replace(](http://sublime.wbond.net/'+pf.replace()' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/spotofsky/Desktop/demo/demo.sass",
+		"/Users/spotofsky/Desktop/lyzCV.tex",
+		"/Users/spotofsky/Desktop/test.txt",
+		"/Users/spotofsky/Desktop/test.js",
+		"/Users/spotofsky/Desktop/setget_callback.js",
+		"/Users/spotofsky/Desktop/bind.js",
+		"/Users/spotofsky/Desktop/hhhh.html.txt",
+		"/Users/spotofsky/Desktop/hello.html",
+		"/Users/spotofsky/Desktop/mydictionary.html",
+		"/Users/spotofsky/Desktop/script.js",
+		"/Users/spotofsky/Desktop/inputbox.js",
+		"/Users/spotofsky/Downloads/unitedbox.js",
+		"/Users/spotofsky/Desktop/test.html",
+		"/Users/spotofsky/Desktop/page.html",
+		"/Users/spotofsky/Desktop/research",
+		"/Users/spotofsky/Desktop/projectInit/hello.html",
+		"/Users/spotofsky/Downloads/currencytable1.html",
+		"/currencytable1.html",
+		"/Users/spotofsky/Downloads/private_policy_jp.html",
+		"/Users/spotofsky/Downloads/use_agreement_jp (1).html",
+		"/Users/spotofsky/Downloads/use_agreement_zh (1).html",
+		"/Users/spotofsky/Desktop/untitled.html",
+		"/Users/spotofsky/Desktop/imgs/twoSum.js",
+		"/Users/spotofsky/Desktop/sample.html",
+		"/Users/spotofsky/Desktop/untitled.js",
+		"/Users/spotofsky/Desktop/mytest.html",
+		"/Users/spotofsky/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/spotofsky/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

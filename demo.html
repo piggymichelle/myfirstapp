@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my demo</title>
+<link rel="stylesheet" type="text/css" href="./css/demo.css">
+<link href="./static/fontawesome/fontawesome-all.css" rel="stylesheet">
+</head>
+<body>
+<div id="carousel" class="carousel">
+  <div class='wrap'>
+    <button class='prev' onclick="prev()"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
+      <div class="slides">
+        <div class="slide" data-state="active">Slide 1</div>
+        <div class="slide">Slide 2</div>
+        <div class="slide">Slide 3</div>
+      </div>
+     <button class='next' onclick="next()"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+    <div class="indicators">
+      <input class="indicator" name="indicator" data-slide="1" data-state="active" checked type="radio" />
+      <input class="indicator" name="indicator" data-slide="2" type="radio" />
+      <input class="indicator" name="indicator" data-slide="3" type="radio" />
+    </div>
+  </div>
+</div>
+<br>
+  <div class='inline'> 
+    <div class='title'> THE CAROUSEL WILL CHANGE IN</div>
+    <div id='count'></div>
+  </div>
+
+ 
+<script type="text/javascript" src='./demo.js'></script>
+</body>
+</html>
